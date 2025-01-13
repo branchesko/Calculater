@@ -13,7 +13,7 @@ public class Main {
                 System.out.println("Ошибка " + e.getMessage()); 
                 break;
             }
-        }3
+        }
     }
 
     public static String calc(String input) throws Exception {
